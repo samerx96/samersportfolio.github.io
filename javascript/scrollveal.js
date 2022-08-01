@@ -73,3 +73,9 @@ ScrollReveal().reveal(".fa", {
   delay: 500,
   interval: 100,
 });
+
+ScrollReveal().reveal(".footer__text", {
+  ...defaultProps,
+  delay: 500,
+  interval: 100,
+});
